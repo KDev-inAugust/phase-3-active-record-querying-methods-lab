@@ -1,0 +1,1 @@
+Show.create(name: "Wargames", network: "netty", director: "John Badham", day: "Matthew Broderick", rating: 5, season: 'two' )
